@@ -1,0 +1,10 @@
+{
+	"suggest.noselect": true,
+	"languageserver": {
+		"zls": {
+			"command": "zls",
+			"filetypes": ["zig"]
+		}
+	}
+}
+
